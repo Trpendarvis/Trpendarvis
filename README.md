@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim (@Trpendarvis)
 - 👀 I’m interested in learning! 
-- 🌱 I’m currently learning JS, CSS, HTML, Python
+- 🌱 I’m currently learning JS, CSS, and HTML at Turing.edu and anticipate graduation April 2023.
 - 📫 How to reach me trpendarvis@gmail.com or https://www.linkedin.com/in/timothy-pendarvis-32205aba/
 
 <!---
