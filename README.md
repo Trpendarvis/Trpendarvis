@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Tim (@Trpendarvis)
 - 👀 I’m interested in learning! 
 - 🌱 I’m currently learning JS, CSS, HTML, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me trpendarvis@gmail.com or https://www.linkedin.com/in/timothy-pendarvis-32205aba/
 
 <!---
 Trpendarvis/Trpendarvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
