@@ -4,13 +4,13 @@
 - 📫 How to reach me trpendarvis@gmail.com or https://www.linkedin.com/in/timothy-pendarvis-32205aba/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trpendarvis)](https://github.com/trpendarvis/github-readme-stats)
 
 
 
 
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=trpendarvis&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trpendarvis&layout=compact)](https://github.com/trpendarvis/github-readme-stats)
 
 
 
