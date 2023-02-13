@@ -4,16 +4,11 @@
 - 📫 How to reach me trpendarvis@gmail.com or https://www.linkedin.com/in/timothy-pendarvis-32205aba/
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=trpendarvis&show_icons=true&theme=cobalt&show_icons=true&theme=radical)
 
 
-
-![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=trpendarvis&show_icons=true&theme=cobalt)
-
-
-
-
-/*[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trpendarvis&layout=compact)](https://github.com/trpendarvis/github-readme-stats)*/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trpendarvis&layout=compact)](https://github.com/trpendarvis/github-readme-stats)
 
 
 
