@@ -63,9 +63,9 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=trpendarvis&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats 
 
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=trpendarvis&show_icons=true&theme=cobalt)
 <br/>  
 
 
@@ -87,8 +87,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-  
-![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=trpendarvis&show_icons=true&theme=cobalt)
 
 
 
