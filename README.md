@@ -1,4 +1,4 @@
-### <div align="center">I'm Timothy Pendarvis, a full-time Front End Developer Student @Turing</div>  
+### <div align="center">I'm Timothy Pendarvis, and I am learning Web Development </div>  
   
 
 - 🔭 I’m currently working on my first big solo enterprise project using the T3 stack!
