@@ -1,7 +1,7 @@
 ### <div align="center">I'm Timothy Pendarvis, a full-time Front End Developer Student @Turing</div>  
   
 
-- 🔭 I’m currently working on [Turing Coding School](https://frontend.turing.edu/)  
+- 🔭 I’m currently working on my first big solo enterprise project using the T3 stack!
   
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Typescript, Tailwind, React, Next.js, Jest, and so much more!
