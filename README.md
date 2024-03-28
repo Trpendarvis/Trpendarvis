@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Turing Coding School](https://frontend.turing.edu/)  
   
 
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Mocha, Chai  
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Typescript, Tailwind, React, Next.js, and so much more!
   
 
 - ❓ Ask me about anything related to Exercise Physiology, Running, Lego, or JRPGs  
