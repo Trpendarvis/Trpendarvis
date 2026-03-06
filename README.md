@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Exercise Physiology, Running, Lego, or JRPGs  
   
 
-- ⚡ Fun fact: I am a USAF Veteran 🇺🇸 I am first generation military, college degree, and business owner [Milk & Honey](https://www.instagram.com/milknhoney_coffee/)  
+- ⚡ Fun fact: I am a USAF Veteran 🇺🇸 I am first-generation military, and first-gen college degree
   
 
 <br/>  
